@@ -1,0 +1,15 @@
+[submodule "Scholee-Monolith"]
+	path = Scholee-Monolith
+	url = https://github.com/IceTeaXXD/Scholee-Monolith.git
+[submodule "Scholee-Config"]
+	path = Scholee-Config
+	url = https://github.com/IceTeaXXD/Scholee-Config.git
+[submodule "Scholee-SOAP"]
+	path = Scholee-SOAP
+	url = https://github.com/IceTeaXXD/Scholee-SOAP.git
+[submodule "Scholee-REST"]
+	path = Scholee-REST
+	url = https://github.com/IceTeaXXD/Scholee-REST.git
+[submodule "Scholee-SPA"]
+	path = Scholee-SPA
+	url = https://github.com/IceTeaXXD/Scholee-SPA.git
